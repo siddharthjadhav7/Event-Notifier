@@ -1,0 +1,51 @@
+{
+  "http://server1.com/001":
+      [{
+          "url": "http://server1.com/001",
+          "latitude": 32.7333445,
+          "longitude": -97.112848
+      }],
+  "http://server1.com/002":
+      [{
+      "url": "http://server1.com/002",
+      "latitude": 32.7333335,
+      "longitude": -97.112758
+      }],
+  "http://server1.com/003":
+      [{
+      "url": "http://server1.com/003",
+      "latitude": 32.7333325,
+      "longitude": -97.112641
+      }],
+  "http://www.server1.com/004":
+      [{
+      "url": "http://www.server1.com/004",
+      "latitude": 32.7333310,
+      "longitude": -97.112600
+      }],
+  "http://server1.com/005":
+      [{
+      "url": "http://server1.com/005",
+      "latitude": 32.7333280,
+      "longitude": -97.112548
+      }],
+  "http://www.server1.com/108":
+      [{
+      "url": "http://www.server1.com/108",
+      "latitude": 32.7333266,
+      "longitude": -97.112445
+      }],
+  "http://server1.com/009":
+      [{
+      "url": "http://server1.com/009",
+      "latitude": 32.7333266,
+      "longitude": -97.112445
+      }],
+
+  "http://server1.com/010":
+      [{
+      "url": "http://server1.com/010",
+      "latitude": 32.7333250,
+      "longitude": -97.112149
+      }]
+}
